@@ -16,10 +16,10 @@
 </div><br><br>
 
 ### Minha meta é:
-- Me especializar em diversas tecnologias do mercado, ser um dos melhores Análista de Sistemas 
+- Me especializar em diversas tecnologias do mercado, ser um dos melhores Análista de Sistemas<br>
   e um Desenvolvedor Full Stack completo.
 
-- Sempre em busca de ser um profissional cada vez mais completo, e almejado pelas grandes empresas da área da Tecnologia.<br>
+Sempre em busca de ser um profissional cada vez mais completo, e almejado pelas grandes empresas da área da Tecnologia.<br>
    . Análista de Sistemas <br> 
    . Desenvolvedor Web<br> 
    . Solucionador de problemas
