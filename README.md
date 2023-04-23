@@ -16,10 +16,7 @@
 </div><br><br>
 
 ### Objetivo:
-- Me especializar em diversas tecnologias do mercado, está entre os melhores e ser reconhecido por meus resultados.<br><br>
-       . Análista de Sistemas <br> 
-       . Desenvolvedor FrontEnd <br> 
-       . Solucionador de problemas
+- Me especializar em diversas tecnologias do mercado, está entre os melhores e ser reconhecido por meus resultados.<br>
 
 ### Entre em Contato:
 Email: marcelocavalcanti@mcindev.com.br
