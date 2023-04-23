@@ -16,7 +16,7 @@
 </div><br><br>
 
 ### Objetivo:
-- Me especializar em diversas tecnologias do mercado, ser um Desenvolvedor completo e futuramente está entre os melhores.<br>
+- Me especializar em diversas tecnologias do mercado, ser um Desenvolvedor completo e futuramente estar entre os melhores.<br>
 
 ### Entre em Contato:
 Email: marcelocavalcanti@mcindev.com.br
