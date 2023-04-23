@@ -15,9 +15,8 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br><br>
 
-### Minha meta é:
-- Me especializar em diversas tecnologias do mercado, ser um dos melhores Análista de Sistemas 
-  e Desenvolvedor Full Stack completo.
+### Objetivo:
+- Me especializar em diversas tecnologias do mercado, e ser reconhecido pelo meu trabalho.
 
 Sempre em busca de ser um profissional cada vez mais completo, e almejado pelas grandes empresas da área da Tecnologia.<br><br>
        . Análista de Sistemas <br> 
