@@ -16,9 +16,7 @@
 </div><br><br>
 
 ### Objetivo:
-- Me especializar em diversas tecnologias do mercado, e ser reconhecido pelo meu trabalho.
-
-Sempre em busca de ser um profissional cada vez mais completo, e almejado pelas grandes empresas da área da Tecnologia.<br><br>
+- Me especializar em diversas tecnologias do mercado, está entre os melhores e ser reconhecido por meus resultados.<br><br>
        . Análista de Sistemas <br> 
        . Desenvolvedor FrontEnd <br> 
        . Solucionador de problemas
