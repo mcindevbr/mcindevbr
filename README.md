@@ -18,4 +18,4 @@
 - Me especializar em diversas tecnologias do mercado, ser um Desenvolvedor completo e futuramente estar entre os melhores.<br>
 
 ### Contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cavalcanti-7b1137253/) Email: marcelocavalcanti65@gmail.com
+Email: marcelocavalcanti65@gmail.com
