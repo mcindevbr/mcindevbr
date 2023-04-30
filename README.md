@@ -1,4 +1,6 @@
-### Olá Eu sou o Marcelo Cavalcanti 👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cavalcanti-7b1137253/)
+### Olá, Eu sou o Marcelo Cavalcanti 👋 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cavalcanti-7b1137253/)
 
 ![Marcelo Cavalcanti's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcindevbr&show_icons=true&theme=merko)
 
@@ -16,4 +18,4 @@
 - Me especializar em diversas tecnologias do mercado, ser um Desenvolvedor completo e futuramente estar entre os melhores.<br>
 
 ### Contato:
-Email: marcelocavalcanti65@gmail.com
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cavalcanti-7b1137253/) Email: marcelocavalcanti65@gmail.com
